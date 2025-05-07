@@ -23,7 +23,8 @@ Você acaba de concluir o curso de Python da FEA.dev, e estamos muito orgulhosos
 
 Seu certificado de conclusão já está disponível! Você pode acessá-lo diretamente na pasta compartilhada do Google Drive, procurando pelo arquivo com o seu nome. 
 
-Feedback Personalizado 📊
+**Feedback Personalizado 📊**
+
 Aproveitamos para compartilhar seu desempenho no projeto final baseado nos critérios do curso. Aqui estão os aspectos avaliados:
 
 Clareza do Código: 15
